@@ -1,0 +1,9 @@
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\bin\Debug\LSRS.exe
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\bin\Debug\LSRS.pdb
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\LSRS.Form1.resources
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\LSRS.Properties.Resources.resources
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\LSRS.exe
+D:\Users\crx\Documents\Visual Studio 2010\Projects\LSRS\LSRS\obj\x86\Debug\LSRS.pdb
